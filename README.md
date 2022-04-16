@@ -5,7 +5,7 @@
 * Why i should use this?
     * ✅ Free to use
     * ✅ You can select users from one group
-
+    * ✅ Standard check for superuser
 __Tested with Joomla 4.1 and php8.0.17__
 
 ## Install
